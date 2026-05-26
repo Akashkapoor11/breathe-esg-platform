@@ -1,0 +1,7 @@
+Account_Number,Meter_ID,Service_Address,Billing_Period_Start,Billing_Period_End,Usage_kWh,Peak_Demand_kW,Rate_Schedule,Total_Charges_INR,Currency
+ACC-DL-001,MTR-001A,"Plot 45, Industrial Area, Delhi",2024-01-05,2024-02-04,45230,125.5,Commercial-HT,542760,INR
+ACC-DL-001,MTR-001B,"Plot 45, Industrial Area, Delhi (Warehouse)",2024-01-05,2024-02-04,8750,25.2,Commercial-LT,105000,INR
+ACC-MH-002,MTR-002A,"Navi Mumbai IT Park, Block C",2024-01-01,2024-01-31,32100,89.3,IT-Park-Rate,385200,INR
+ACC-MH-002,MTR-002B,"Navi Mumbai IT Park, Block C (Datacenter)",2024-01-01,2024-01-31,18900,52.1,IT-Park-Rate,226800,INR
+ACC-KA-003,MTR-003A,"Whitefield Industrial Zone, Bangalore",2024-01-03,2024-02-01,22400,67.8,Industrial-HT,268800,INR
+ACC-TN-004,MTR-004A,"Ambattur Industrial Estate, Chennai",2024-01-07,2024-02-06,15600,45.2,LT-Industrial,187200,INR
