@@ -4,7 +4,7 @@ Django REST + React prototype for ingesting, normalizing, and reviewing corporat
 
 ## Live demo
 
-> Deployed URL: [see submission email]
+> Deployed URL: https://breathe-esg-platform-kappa.vercel.app/login
 
 **Credentials:**
 - `admin / admin123` — full access, can lock records
