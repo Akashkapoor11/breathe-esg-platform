@@ -115,6 +115,8 @@ SIMPLE_JWT = {
 CORS_ALLOWED_ORIGINS = env.list('CORS_ALLOWED_ORIGINS', default=[
     'http://localhost:5173',
     'http://localhost:3000',
+    'https://breathe-esg-platform-bddwgw3sd.vercel.app',
+    'https://breathe-esg-platform-kappa.vercel.app',
 ])
 CORS_ALLOW_CREDENTIALS = True
 
